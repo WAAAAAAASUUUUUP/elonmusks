@@ -1,0 +1,45 @@
+.profile{
+  width: 300px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border-radius: 20%;
+ 
+}
+#welcome{
+  background: linear-gradient(#00E676 0%, #00E5FF 100%);
+}
+hgroup{
+  
+  font-family: Merriweather, serif;
+}
+body{
+  margin:0;
+  padding-top: 100px;
+  text-align:center;
+}
+.line{
+  background-color:#212121;
+  width:1500px;
+  height:5px;
+  margin:10;
+}
+.links{
+  float:left;
+  padding-top:5px;
+  padding-right:9px;
+  padding-left:9px;
+  font-family: Raleway, sans-serif;
+  
+  
+}
+.menu{
+  list-style:none;
+  position:absolute;
+  top:10px;
+  right:30px;
+  
+}
+h3{
+  font-size:100px;
+  color:#03A9F4;
+}
