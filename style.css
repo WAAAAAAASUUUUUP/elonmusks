@@ -43,6 +43,10 @@ h3{
   font-size:100px;
   color:#03A9F4;
 }
-h1{
-font-size: 100px;
+h5{
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
 }
